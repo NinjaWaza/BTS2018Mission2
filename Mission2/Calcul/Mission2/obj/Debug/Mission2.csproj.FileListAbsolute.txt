@@ -1,0 +1,10 @@
+D:\Programme\Mission2\CalculFolletTheodore\Mission2\bin\Debug\Mission2.exe.config
+D:\Programme\Mission2\CalculFolletTheodore\Mission2\bin\Debug\Mission2.exe
+D:\Programme\Mission2\CalculFolletTheodore\Mission2\bin\Debug\Mission2.pdb
+D:\Programme\Mission2\CalculFolletTheodore\Mission2\obj\Debug\Mission2.csprojAssemblyReference.cache
+D:\Programme\Mission2\CalculFolletTheodore\Mission2\obj\Debug\Mission2.Form1.resources
+D:\Programme\Mission2\CalculFolletTheodore\Mission2\obj\Debug\Mission2.Properties.Resources.resources
+D:\Programme\Mission2\CalculFolletTheodore\Mission2\obj\Debug\Mission2.csproj.GenerateResource.cache
+D:\Programme\Mission2\CalculFolletTheodore\Mission2\obj\Debug\Mission2.csproj.CoreCompileInputs.cache
+D:\Programme\Mission2\CalculFolletTheodore\Mission2\obj\Debug\Mission2.exe
+D:\Programme\Mission2\CalculFolletTheodore\Mission2\obj\Debug\Mission2.pdb
